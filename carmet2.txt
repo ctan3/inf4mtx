@@ -1,0 +1,3 @@
+UCInetid: carmet2
+My name is Carmen Tan. I am a fourth year Business Administration student at UCI.
+I am also taking classes to get a CS minor.
